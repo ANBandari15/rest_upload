@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d87a86c4-dc9c-482c-a78a-3ae2fd84aed2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/rest_upload.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rest_upload.iml" afterDir="false" />
+    <list default="true" id="d87a86c4-dc9c-482c-a78a-3ae2fd84aed2" name="Default Changelist" comment="debug set false">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/documents/IPs_of_DC_servers___nw_devices_43053x.nessus.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/rest_upload/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/rest_upload/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,11 +21,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="28" />
-    <option name="width" value="1366" />
-    <option name="height" value="706" />
   </component>
   <component name="ProjectId" id="1ZCj0pmCw2bUUUtJRDGSfAOcs4f" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -50,13 +44,29 @@
       <option name="presentableId" value="Default" />
       <updated>1582690092349</updated>
     </task>
+    <task id="LOCAL-00001" summary="debug set false">
+      <created>1584355797869</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584355797869</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="debug set false" />
+    <option name="LAST_COMMIT_MESSAGE" value="debug set false" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1584355796883">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1584443597460">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584355796883" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584443597460" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1584436703264">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1584436703264" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1584355761525">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
